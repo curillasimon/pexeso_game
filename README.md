@@ -30,4 +30,10 @@ npm install
 npm install axios
 
 
+git rm -r --cached venv
+
+uvicorn pexeso_api:app --reload
+
+
+
 
