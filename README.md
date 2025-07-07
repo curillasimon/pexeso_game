@@ -4,6 +4,7 @@
 python3 -m venv venv
 
 Mac/Linux: source ./venv/bin/activate
+
 Windows: .\venv\Scripts\activate
 
 requirements.txt:
