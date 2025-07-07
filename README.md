@@ -19,3 +19,15 @@ pip install -r requirements.txt
 
 ## Frontend
 
+node.js REQUIRED
+
+npm create vite@latest frontend --template react
+
+cd frontend
+
+npm install
+
+npm install axios
+
+
+
